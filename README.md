@@ -34,6 +34,7 @@
 | Who ate my fish? | 2021.10.29 ~ 2021.11.05 (1주) | FE 개발자 4명 | [https://github.com/kheeyaa/Who-ate-my-fish](https://github.com/kheeyaa/Who-ate-my-fish) | HTML, CSS, JS, Socket.io |
 | Game Snacks | 2021.10.19 ~ 2021.10.22 (약 4일) | FE 개발자 3명 | [https://github.com/kheeyaa/Snack-Games](https://github.com/kheeyaa/Snack-Games) | HTML, CSS, JS |
 
+<!-- 
 
 # 🗣 About Me
 
@@ -98,7 +99,7 @@
         - [Snack Games](https://github.com/kheeyaa/Snack-Games)
         - [Free Gallery](https://github.com/kheeyaa/Free-gallery)
 
-<!-- 
+
 # 🧐 프로그래밍 철학
 
 ## 📌 페이지로드 100ms 개선이 수익 1%를 증가시킨다
