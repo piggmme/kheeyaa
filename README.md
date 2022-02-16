@@ -98,6 +98,7 @@
         - [Snack Games](https://github.com/kheeyaa/Snack-Games)
         - [Free Gallery](https://github.com/kheeyaa/Free-gallery)
 
+<!-- 
 # 🧐 프로그래밍 철학
 
 ## 📌 페이지로드 100ms 개선이 수익 1%를 증가시킨다
@@ -209,3 +210,4 @@ React.memo, useCallback, useMemo를 사용하여 컴포넌트 최적화를 통�
     
 
 
+ -->
