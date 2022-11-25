@@ -9,7 +9,7 @@
 | Github | https://github.com/kheeyaa |
 | e-mail | kheeyaa888@gmail.com |
 
-# Skill
+# ⭐️ Skill
 
 - HTML, CSS
 - JS, TS
